@@ -1,7 +1,7 @@
 # Smart_home_chatGPT
 Hướng dẫn cài đặt thư viện và setup hệ thống Nhà thông minh sử dụng chatGPT.
 
-Hệ thống sử dụng ngôn ngữ lập trình Python với máy tính nhúng Raspberry Pi.
+Hệ thống sử dụng ngôn ngữ lập trình Python với máy tính nhúng Raspberry Pi chạy trên hệ điều hành Linux.
 
 *Cài đặt các thư viện sử dụng: Để cài đặt thư viện python hỗ trợ ta mở Terminal vào thực hiện các lệnh sau:
 
