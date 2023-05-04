@@ -13,7 +13,7 @@ Light_2 = 5
 Electric_fan = 7
 
 # add API key chatGPT
-openai.api_key = "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"
+openai.api_key = "your OpenAI API key "
 
 #Khai báo ngôn ngữ sử dụng
 language = 'vi-VN'
