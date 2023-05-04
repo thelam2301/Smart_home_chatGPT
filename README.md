@@ -35,3 +35,13 @@ Hệ thống sử dụng ngôn ngữ lập trình Python với máy tính nhúng
     - Cuối cùng, bạn cần khởi động lại Raspberry Pi để thay đổi được áp dụng. Bạn có thể sử dụng lệnh sau để khởi động lại:
 
         sudo reboot
+        
+        
+ * Setup phần cứng:
+        -Sơ đồ mạch nguyên lý: https://github.com/thelam2301/Smart_home_chatGPT/blob/097bceef38e2e2bdecf670c6982b3e6d409eb38f/S%C6%A1%20%C4%91%E1%BB%93%20m%E1%BA%A1ch%20nguy%C3%AAn%20l%C3%BD.JPG
+    Các thiết bị điện ( bóng đèn, quạt ) được điều khiển bởi Raspberry Pi thông qua relay 5V- 220V với nguyên lý như sau:
+    Các chân điều khiển của module relay được kết nối với các chân GPIO của Raspberry Pi. Khi có tín hiệu điều khiển bật/tắt từ Raspberry Pi, các module này hoạt động  như các công tắc điện đóng mở nguồn điện cung cấp chó các thiết bị.
+
+ 
+ 
+ 
